@@ -1,0 +1,21 @@
+.env
+.env.*
+!.env.example
+data/
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+frontend/dist/
+dashboard-password.txt
+backups/
+.pytest_cache/
+
+# Credentials, local databases, and machine-specific files
+*.sqlite3
+*.db
+*.key
+*.pem
+client_secret*.json
+*.log
+.DS_Store
