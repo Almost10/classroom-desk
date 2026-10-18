@@ -1,5 +1,7 @@
 # Classroom Desk
 
+> **Disclaimer:** This project is vibe coded with AI assistance. It is experimental; review generated work and verify the app's behavior before relying on it.
+
 A private dashboard that automatically turns newly discovered Google Classroom assignments and attached instructions into reviewable DOCX and PPTX drafts using the Gemini API. Designed for one person on an Oracle Cloud Always Free VM.
 
 ## What is implemented
